@@ -1,1 +1,1 @@
-to Keep private reason, personal API Key was removed.
+to Keep private reasons, personal API Key was removed.
